@@ -1,4 +1,8 @@
 # Web scrping
+---
 
-** 정보
-
+* 정보
+  * pandas
+  * numpy
+  * BeautifulSoup
+  * requests
