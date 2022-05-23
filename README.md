@@ -6,4 +6,4 @@
   * numpy
   * BeautifulSoup
   * requests
-  * 
+  * json
