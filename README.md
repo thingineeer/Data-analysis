@@ -1,7 +1,7 @@
 # Web scrping
 ---
 
-* 정보
+* study
   * pandas
   * numpy
   * BeautifulSoup
