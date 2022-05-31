@@ -7,3 +7,4 @@
   * BeautifulSoup
   * requests
   * json
+  * plotly
