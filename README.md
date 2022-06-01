@@ -8,3 +8,4 @@
   * requests
   * json
   * plotly
+  * ex
