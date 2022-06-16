@@ -1,4 +1,4 @@
-# Web scrping
+# Web scraping
 ---
 
 * study
